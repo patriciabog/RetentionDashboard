@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/RetentionDashboard/static/css/main.d2b0668f.css",
+    "main.js": "/RetentionDashboard/static/js/main.3e5c209b.js",
+    "static/js/904.2dc419c7.chunk.js": "/RetentionDashboard/static/js/904.2dc419c7.chunk.js",
+    "index.html": "/RetentionDashboard/index.html",
+    "main.d2b0668f.css.map": "/RetentionDashboard/static/css/main.d2b0668f.css.map",
+    "main.3e5c209b.js.map": "/RetentionDashboard/static/js/main.3e5c209b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2b0668f.css",
+    "static/js/main.3e5c209b.js"
+  ]
+}

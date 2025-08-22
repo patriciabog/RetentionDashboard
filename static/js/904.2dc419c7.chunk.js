@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkRetentionDashboard=self.webpackChunkRetentionDashboard||[]).push([[904],{904:e=>{e.exports=JSON.parse('{"nps":{"freemium":[7,8,6,5,9],"poc":[8,9,7,6,8],"enterprise":[9,10,8,9,10]},"retention":{"freemium":75,"poc":85,"enterprise":90},"usage":{"freemium":300,"poc":150,"enterprise":100}}')}}]);
