@@ -41,7 +41,7 @@ A tool designed to empower Customer Success, Onboarding, and Product teams by co
 This project is licensed under the [MIT License](LICENSE).
 
 ## 💬 Feedback
-I’d love to hear your thoughts! Connect with me on [LinkedIn](https://linkedin.com/in/carla-perez) or email me at carla.perez@email.com.
+I’d love to hear your thoughts! Connect with me on [LinkedIn](https://linkedin.com/in/carla-perez).
 
 ## 🙌 About the Project
 Built as a personal project to combine my expertise in Customer Success and front-end development, this dashboard helps teams monitor and improve customer retention through data-driven insights.
